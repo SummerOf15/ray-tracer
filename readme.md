@@ -24,13 +24,13 @@ This is a project about ray tracer implemented on C++.
 
 - Some functions need to be finished:
 
-  [] add other objects(rectangles)
+  [ ] add other objects(rectangles)
 
-  [] line light source
+  [ ] line light source
 
-  [] image based textures
+  [ ] image based textures
 
-  [] interation
+  [ ] interation
 
 #### class structure
 
